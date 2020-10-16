@@ -3,9 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## You need to install the extension as below and turn it on so that it does not give CROS error to run it in local
 https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en
 
-## Demo
-
-https://recipe-finder-58d51.web.app
 
 ## Available Scripts
 
